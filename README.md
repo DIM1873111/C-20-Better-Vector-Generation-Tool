@@ -24,7 +24,7 @@ auto r = OpVec::control(vec).iterator(
 // r == {2,4,6,8}
 ```
 
-一句话拆开看：
+预览：
 
 | 片段 | 作用 |
 |---|---|
